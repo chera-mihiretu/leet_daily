@@ -30,6 +30,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/chera-mihiretu/leet_daily/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chera-mihiretu/leet_daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Greedy
 |  |

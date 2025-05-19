@@ -6,6 +6,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/chera-mihiretu/leet_daily/tree/master/0075-sort-colors) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chera-mihiretu/leet_daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3321-type-of-triangle](https://github.com/chera-mihiretu/leet_daily/tree/master/3321-type-of-triangle) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Graph
 |  |
@@ -44,4 +45,9 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/chera-mihiretu/leet_daily/tree/master/0075-sort-colors) |
+| [3321-type-of-triangle](https://github.com/chera-mihiretu/leet_daily/tree/master/3321-type-of-triangle) |
+## Math
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/chera-mihiretu/leet_daily/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->

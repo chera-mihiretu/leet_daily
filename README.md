@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/chera-mihiretu/leet_daily/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3201-distribute-candies-among-children-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/chera-mihiretu/leet_daily/tree/master/3321-type-of-triangle) |
 ## Prefix Sum
 |  |
@@ -92,4 +93,12 @@
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/chera-mihiretu/leet_daily/tree/master/0945-snakes-and-ladders) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/3201-distribute-candies-among-children-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->

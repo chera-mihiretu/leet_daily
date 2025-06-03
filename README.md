@@ -7,6 +7,7 @@
 | [0073-set-matrix-zeroes](https://github.com/chera-mihiretu/leet_daily/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/chera-mihiretu/leet_daily/tree/master/0075-sort-colors) |
 | [0945-snakes-and-ladders](https://github.com/chera-mihiretu/leet_daily/tree/master/0945-snakes-and-ladders) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/chera-mihiretu/leet_daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chera-mihiretu/leet_daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/chera-mihiretu/leet_daily/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/chera-mihiretu/leet_daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -17,6 +18,7 @@
 ## Graph
 |  |
 | ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/chera-mihiretu/leet_daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/chera-mihiretu/leet_daily/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Heap (Priority Queue)
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/chera-mihiretu/leet_daily/tree/master/0945-snakes-and-ladders) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/chera-mihiretu/leet_daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Combinatorics
 |  |
 | ------- |

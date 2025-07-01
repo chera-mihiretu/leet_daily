@@ -47,6 +47,7 @@
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/chera-mihiretu/leet_daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chera-mihiretu/leet_daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/chera-mihiretu/leet_daily/tree/master/3194-find-words-containing-character) |
+| [3617-find-the-original-typed-string-i](https://github.com/chera-mihiretu/leet_daily/tree/master/3617-find-the-original-typed-string-i) |
 ## Dynamic Programming
 |  |
 | ------- |

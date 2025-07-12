@@ -21,6 +21,7 @@
 | [3639-zero-array-transformation-i](https://github.com/chera-mihiretu/leet_daily/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/chera-mihiretu/leet_daily/tree/master/3647-zero-array-transformation-iii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/chera-mihiretu/leet_daily/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3863-power-grid-maintenance](https://github.com/chera-mihiretu/leet_daily/tree/master/3863-power-grid-maintenance) |
 | [3934-coupon-code-validator](https://github.com/chera-mihiretu/leet_daily/tree/master/3934-coupon-code-validator) |
 ## Graph
 |  |
@@ -28,11 +29,13 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/chera-mihiretu/leet_daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/chera-mihiretu/leet_daily/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3863-power-grid-maintenance](https://github.com/chera-mihiretu/leet_daily/tree/master/3863-power-grid-maintenance) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/chera-mihiretu/leet_daily/tree/master/3647-zero-array-transformation-iii) |
+| [3863-power-grid-maintenance](https://github.com/chera-mihiretu/leet_daily/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -104,6 +107,7 @@
 | [0073-set-matrix-zeroes](https://github.com/chera-mihiretu/leet_daily/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/chera-mihiretu/leet_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/chera-mihiretu/leet_daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3863-power-grid-maintenance](https://github.com/chera-mihiretu/leet_daily/tree/master/3863-power-grid-maintenance) |
 | [3934-coupon-code-validator](https://github.com/chera-mihiretu/leet_daily/tree/master/3934-coupon-code-validator) |
 ## Bit Manipulation
 |  |
@@ -118,11 +122,13 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/chera-mihiretu/leet_daily/tree/master/0386-lexicographical-numbers) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/chera-mihiretu/leet_daily/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [3863-power-grid-maintenance](https://github.com/chera-mihiretu/leet_daily/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/chera-mihiretu/leet_daily/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/chera-mihiretu/leet_daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [3863-power-grid-maintenance](https://github.com/chera-mihiretu/leet_daily/tree/master/3863-power-grid-maintenance) |
 ## Combinatorics
 |  |
 | ------- |
@@ -136,6 +142,7 @@
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/chera-mihiretu/leet_daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [3863-power-grid-maintenance](https://github.com/chera-mihiretu/leet_daily/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
 | ------- |
@@ -158,4 +165,8 @@
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/chera-mihiretu/leet_daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/chera-mihiretu/leet_daily/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->

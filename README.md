@@ -21,6 +21,7 @@
 | [3639-zero-array-transformation-i](https://github.com/chera-mihiretu/leet_daily/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/chera-mihiretu/leet_daily/tree/master/3647-zero-array-transformation-iii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/chera-mihiretu/leet_daily/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3934-coupon-code-validator](https://github.com/chera-mihiretu/leet_daily/tree/master/3934-coupon-code-validator) |
 ## Graph
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [3194-find-words-containing-character](https://github.com/chera-mihiretu/leet_daily/tree/master/3194-find-words-containing-character) |
 | [3617-find-the-original-typed-string-i](https://github.com/chera-mihiretu/leet_daily/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/3618-find-the-original-typed-string-ii) |
+| [3934-coupon-code-validator](https://github.com/chera-mihiretu/leet_daily/tree/master/3934-coupon-code-validator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/chera-mihiretu/leet_daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/chera-mihiretu/leet_daily/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/chera-mihiretu/leet_daily/tree/master/3647-zero-array-transformation-iii) |
+| [3934-coupon-code-validator](https://github.com/chera-mihiretu/leet_daily/tree/master/3934-coupon-code-validator) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +104,7 @@
 | [0073-set-matrix-zeroes](https://github.com/chera-mihiretu/leet_daily/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/chera-mihiretu/leet_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/chera-mihiretu/leet_daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3934-coupon-code-validator](https://github.com/chera-mihiretu/leet_daily/tree/master/3934-coupon-code-validator) |
 ## Bit Manipulation
 |  |
 | ------- |

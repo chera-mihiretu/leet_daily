@@ -93,6 +93,7 @@
 ## Math
 |  |
 | ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chera-mihiretu/leet_daily/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/chera-mihiretu/leet_daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/chera-mihiretu/leet_daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/chera-mihiretu/leet_daily/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -173,4 +174,8 @@
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/chera-mihiretu/leet_daily/tree/master/3863-power-grid-maintenance) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chera-mihiretu/leet_daily/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->

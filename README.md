@@ -23,6 +23,7 @@
 | [3639-zero-array-transformation-i](https://github.com/chera-mihiretu/leet_daily/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/chera-mihiretu/leet_daily/tree/master/3647-zero-array-transformation-iii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/chera-mihiretu/leet_daily/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/chera-mihiretu/leet_daily/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/chera-mihiretu/leet_daily/tree/master/3863-power-grid-maintenance) |
 | [3934-coupon-code-validator](https://github.com/chera-mihiretu/leet_daily/tree/master/3934-coupon-code-validator) |
 ## Graph
@@ -76,6 +77,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chera-mihiretu/leet_daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/chera-mihiretu/leet_daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/chera-mihiretu/leet_daily/tree/master/3647-zero-array-transformation-iii) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/chera-mihiretu/leet_daily/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 | [0073-set-matrix-zeroes](https://github.com/chera-mihiretu/leet_daily/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/chera-mihiretu/leet_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/chera-mihiretu/leet_daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/chera-mihiretu/leet_daily/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/chera-mihiretu/leet_daily/tree/master/3863-power-grid-maintenance) |
 | [3934-coupon-code-validator](https://github.com/chera-mihiretu/leet_daily/tree/master/3934-coupon-code-validator) |
 ## Bit Manipulation
@@ -183,4 +186,12 @@
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chera-mihiretu/leet_daily/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Stack
+|  |
+| ------- |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/chera-mihiretu/leet_daily/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/chera-mihiretu/leet_daily/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 <!---LeetCode Topics End-->

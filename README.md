@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/chera-mihiretu/leet_daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/chera-mihiretu/leet_daily/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/chera-mihiretu/leet_daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chera-mihiretu/leet_daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/chera-mihiretu/leet_daily/tree/master/3194-find-words-containing-character) |

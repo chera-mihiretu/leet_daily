@@ -7,6 +7,7 @@
 | [0073-set-matrix-zeroes](https://github.com/chera-mihiretu/leet_daily/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/chera-mihiretu/leet_daily/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/chera-mihiretu/leet_daily/tree/master/0594-longest-harmonious-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/chera-mihiretu/leet_daily/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/chera-mihiretu/leet_daily/tree/master/0945-snakes-and-ladders) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/chera-mihiretu/leet_daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/chera-mihiretu/leet_daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -66,6 +67,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/chera-mihiretu/leet_daily/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/chera-mihiretu/leet_daily/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chera-mihiretu/leet_daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/chera-mihiretu/leet_daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -126,6 +128,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/chera-mihiretu/leet_daily/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/chera-mihiretu/leet_daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/chera-mihiretu/leet_daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Tree

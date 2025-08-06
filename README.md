@@ -27,6 +27,7 @@
 | [3639-zero-array-transformation-i](https://github.com/chera-mihiretu/leet_daily/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/chera-mihiretu/leet_daily/tree/master/3647-zero-array-transformation-iii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/chera-mihiretu/leet_daily/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3791-fruits-into-baskets-iii](https://github.com/chera-mihiretu/leet_daily/tree/master/3791-fruits-into-baskets-iii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/chera-mihiretu/leet_daily/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/chera-mihiretu/leet_daily/tree/master/3863-power-grid-maintenance) |
 | [3934-coupon-code-validator](https://github.com/chera-mihiretu/leet_daily/tree/master/3934-coupon-code-validator) |
@@ -176,6 +177,7 @@
 | ------- |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chera-mihiretu/leet_daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/chera-mihiretu/leet_daily/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3791-fruits-into-baskets-iii](https://github.com/chera-mihiretu/leet_daily/tree/master/3791-fruits-into-baskets-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/chera-mihiretu/leet_daily/tree/master/3791-fruits-into-baskets-iii) |
 | [3863-power-grid-maintenance](https://github.com/chera-mihiretu/leet_daily/tree/master/3863-power-grid-maintenance) |
 ## Linked List
 |  |
@@ -209,4 +212,8 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/chera-mihiretu/leet_daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Segment Tree
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/chera-mihiretu/leet_daily/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->

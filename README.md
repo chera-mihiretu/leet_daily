@@ -137,10 +137,12 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/chera-mihiretu/leet_daily/tree/master/0098-validate-binary-search-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/chera-mihiretu/leet_daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/chera-mihiretu/leet_daily/tree/master/0098-validate-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/chera-mihiretu/leet_daily/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/chera-mihiretu/leet_daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/chera-mihiretu/leet_daily/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -216,4 +218,12 @@
 |  |
 | ------- |
 | [3791-fruits-into-baskets-iii](https://github.com/chera-mihiretu/leet_daily/tree/master/3791-fruits-into-baskets-iii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/chera-mihiretu/leet_daily/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/chera-mihiretu/leet_daily/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->

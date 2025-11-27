@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/chera-mihiretu/leet_daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/chera-mihiretu/leet_daily/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/chera-mihiretu/leet_daily/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/chera-mihiretu/leet_daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/chera-mihiretu/leet_daily/tree/master/2423-remove-letter-to-equalize-frequency) |
@@ -208,6 +209,7 @@
 ## Stack
 |  |
 | ------- |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/chera-mihiretu/leet_daily/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/chera-mihiretu/leet_daily/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |

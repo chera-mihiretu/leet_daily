@@ -60,6 +60,7 @@
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/chera-mihiretu/leet_daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/chera-mihiretu/leet_daily/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/chera-mihiretu/leet_daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/chera-mihiretu/leet_daily/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chera-mihiretu/leet_daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/chera-mihiretu/leet_daily/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/chera-mihiretu/leet_daily/tree/master/3396-valid-word) |
@@ -125,6 +126,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/chera-mihiretu/leet_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/chera-mihiretu/leet_daily/tree/master/0940-fruit-into-baskets) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/chera-mihiretu/leet_daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/chera-mihiretu/leet_daily/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/chera-mihiretu/leet_daily/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/chera-mihiretu/leet_daily/tree/master/3863-power-grid-maintenance) |
 | [3934-coupon-code-validator](https://github.com/chera-mihiretu/leet_daily/tree/master/3934-coupon-code-validator) |
@@ -189,6 +191,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/chera-mihiretu/leet_daily/tree/master/0594-longest-harmonious-subsequence) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/chera-mihiretu/leet_daily/tree/master/2423-remove-letter-to-equalize-frequency) |
 ## Design
 |  |
 | ------- |

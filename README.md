@@ -109,6 +109,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/chera-mihiretu/leet_daily/tree/master/0050-powx-n) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chera-mihiretu/leet_daily/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/chera-mihiretu/leet_daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/chera-mihiretu/leet_daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -245,4 +246,8 @@
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/chera-mihiretu/leet_daily/tree/master/1472-design-browser-history) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/chera-mihiretu/leet_daily/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

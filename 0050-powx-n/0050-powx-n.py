@@ -7,14 +7,9 @@ class Solution:
         return 1 / result
 
     def ppow(self, x, n):
-        if n == 0:
-            return 1
-        if n == 1:
-            return x
-
-        result =  self.ppow(x, n//2)
-        result *= result
-        if n & 1:
-            result *= x
-        
+        result = 1
+        while (n > 0):
+            if n & 1: result *= x   
+            x *= x
+            n //= 2
         return result

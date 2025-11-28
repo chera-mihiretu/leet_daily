@@ -93,6 +93,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/chera-mihiretu/leet_daily/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/chera-mihiretu/leet_daily/tree/master/0086-partition-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chera-mihiretu/leet_daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/chera-mihiretu/leet_daily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
@@ -210,6 +211,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/chera-mihiretu/leet_daily/tree/master/0086-partition-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chera-mihiretu/leet_daily/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1472-design-browser-history](https://github.com/chera-mihiretu/leet_daily/tree/master/1472-design-browser-history) |
 ## Stack

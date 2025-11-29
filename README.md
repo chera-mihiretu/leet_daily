@@ -9,6 +9,7 @@
 | [0075-sort-colors](https://github.com/chera-mihiretu/leet_daily/tree/master/0075-sort-colors) |
 | [0239-sliding-window-maximum](https://github.com/chera-mihiretu/leet_daily/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/chera-mihiretu/leet_daily/tree/master/0307-range-sum-query-mutable) |
 | [0594-longest-harmonious-subsequence](https://github.com/chera-mihiretu/leet_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/chera-mihiretu/leet_daily/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/chera-mihiretu/leet_daily/tree/master/0940-fruit-into-baskets) |
@@ -209,6 +210,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/chera-mihiretu/leet_daily/tree/master/0146-lru-cache) |
+| [0307-range-sum-query-mutable](https://github.com/chera-mihiretu/leet_daily/tree/master/0307-range-sum-query-mutable) |
 | [1472-design-browser-history](https://github.com/chera-mihiretu/leet_daily/tree/master/1472-design-browser-history) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/chera-mihiretu/leet_daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Ordered Set
@@ -240,6 +242,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/chera-mihiretu/leet_daily/tree/master/0307-range-sum-query-mutable) |
 | [3791-fruits-into-baskets-iii](https://github.com/chera-mihiretu/leet_daily/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Search Tree
 |  |
@@ -274,4 +277,9 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/chera-mihiretu/leet_daily/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/chera-mihiretu/leet_daily/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->

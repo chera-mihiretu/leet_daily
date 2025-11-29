@@ -10,6 +10,7 @@
 | [0239-sliding-window-maximum](https://github.com/chera-mihiretu/leet_daily/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/chera-mihiretu/leet_daily/tree/master/0307-range-sum-query-mutable) |
+| [0399-evaluate-division](https://github.com/chera-mihiretu/leet_daily/tree/master/0399-evaluate-division) |
 | [0594-longest-harmonious-subsequence](https://github.com/chera-mihiretu/leet_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/chera-mihiretu/leet_daily/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/chera-mihiretu/leet_daily/tree/master/0940-fruit-into-baskets) |
@@ -39,6 +40,7 @@
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/chera-mihiretu/leet_daily/tree/master/0399-evaluate-division) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/chera-mihiretu/leet_daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/chera-mihiretu/leet_daily/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -60,10 +62,12 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/chera-mihiretu/leet_daily/tree/master/0399-evaluate-division) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## String
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/chera-mihiretu/leet_daily/tree/master/0399-evaluate-division) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/chera-mihiretu/leet_daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/chera-mihiretu/leet_daily/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/chera-mihiretu/leet_daily/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -157,12 +161,14 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/chera-mihiretu/leet_daily/tree/master/0098-validate-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/chera-mihiretu/leet_daily/tree/master/0386-lexicographical-numbers) |
+| [0399-evaluate-division](https://github.com/chera-mihiretu/leet_daily/tree/master/0399-evaluate-division) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/chera-mihiretu/leet_daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/chera-mihiretu/leet_daily/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3863-power-grid-maintenance](https://github.com/chera-mihiretu/leet_daily/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/chera-mihiretu/leet_daily/tree/master/0399-evaluate-division) |
 | [0945-snakes-and-ladders](https://github.com/chera-mihiretu/leet_daily/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/chera-mihiretu/leet_daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3863-power-grid-maintenance](https://github.com/chera-mihiretu/leet_daily/tree/master/3863-power-grid-maintenance) |
@@ -179,6 +185,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/chera-mihiretu/leet_daily/tree/master/0399-evaluate-division) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/chera-mihiretu/leet_daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [3863-power-grid-maintenance](https://github.com/chera-mihiretu/leet_daily/tree/master/3863-power-grid-maintenance) |
 ## Trie

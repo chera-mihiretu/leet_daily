@@ -8,6 +8,7 @@
 | [0073-set-matrix-zeroes](https://github.com/chera-mihiretu/leet_daily/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/chera-mihiretu/leet_daily/tree/master/0075-sort-colors) |
 | [0239-sliding-window-maximum](https://github.com/chera-mihiretu/leet_daily/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/chera-mihiretu/leet_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/chera-mihiretu/leet_daily/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/chera-mihiretu/leet_daily/tree/master/0940-fruit-into-baskets) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/chera-mihiretu/leet_daily/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0945-snakes-and-ladders](https://github.com/chera-mihiretu/leet_daily/tree/master/0945-snakes-and-ladders) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
@@ -188,6 +190,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/chera-mihiretu/leet_daily/tree/master/0033-search-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chera-mihiretu/leet_daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/chera-mihiretu/leet_daily/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3791-fruits-into-baskets-iii](https://github.com/chera-mihiretu/leet_daily/tree/master/3791-fruits-into-baskets-iii) |
@@ -267,4 +270,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/chera-mihiretu/leet_daily/tree/master/0239-sliding-window-maximum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->

@@ -71,6 +71,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/chera-mihiretu/leet_daily/tree/master/0399-evaluate-division) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/chera-mihiretu/leet_daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/chera-mihiretu/leet_daily/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/chera-mihiretu/leet_daily/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/chera-mihiretu/leet_daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -240,6 +241,7 @@
 ## Stack
 |  |
 | ------- |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/chera-mihiretu/leet_daily/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1472-design-browser-history](https://github.com/chera-mihiretu/leet_daily/tree/master/1472-design-browser-history) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/chera-mihiretu/leet_daily/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |

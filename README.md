@@ -18,6 +18,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/chera-mihiretu/leet_daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/chera-mihiretu/leet_daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1472-design-browser-history](https://github.com/chera-mihiretu/leet_daily/tree/master/1472-design-browser-history) |
+| [1488-avoid-flood-in-the-city](https://github.com/chera-mihiretu/leet_daily/tree/master/1488-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chera-mihiretu/leet_daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/chera-mihiretu/leet_daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/chera-mihiretu/leet_daily/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/chera-mihiretu/leet_daily/tree/master/0239-sliding-window-maximum) |
+| [1488-avoid-flood-in-the-city](https://github.com/chera-mihiretu/leet_daily/tree/master/1488-avoid-flood-in-the-city) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/chera-mihiretu/leet_daily/tree/master/3647-zero-array-transformation-iii) |
 | [3863-power-grid-maintenance](https://github.com/chera-mihiretu/leet_daily/tree/master/3863-power-grid-maintenance) |
@@ -90,6 +92,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1488-avoid-flood-in-the-city](https://github.com/chera-mihiretu/leet_daily/tree/master/1488-avoid-flood-in-the-city) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/chera-mihiretu/leet_daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/chera-mihiretu/leet_daily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/chera-mihiretu/leet_daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -140,6 +143,7 @@
 | [0146-lru-cache](https://github.com/chera-mihiretu/leet_daily/tree/master/0146-lru-cache) |
 | [0594-longest-harmonious-subsequence](https://github.com/chera-mihiretu/leet_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/chera-mihiretu/leet_daily/tree/master/0940-fruit-into-baskets) |
+| [1488-avoid-flood-in-the-city](https://github.com/chera-mihiretu/leet_daily/tree/master/1488-avoid-flood-in-the-city) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/chera-mihiretu/leet_daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/chera-mihiretu/leet_daily/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/chera-mihiretu/leet_daily/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -199,6 +203,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/chera-mihiretu/leet_daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/0240-search-a-2d-matrix-ii) |
+| [1488-avoid-flood-in-the-city](https://github.com/chera-mihiretu/leet_daily/tree/master/1488-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chera-mihiretu/leet_daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/chera-mihiretu/leet_daily/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3791-fruits-into-baskets-iii](https://github.com/chera-mihiretu/leet_daily/tree/master/3791-fruits-into-baskets-iii) |

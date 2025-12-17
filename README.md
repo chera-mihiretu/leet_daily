@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0934-bitwise-ors-of-subarrays](https://github.com/chera-mihiretu/leet_daily/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1387-sort-integers-by-the-power-value](https://github.com/chera-mihiretu/leet_daily/tree/master/1387-sort-integers-by-the-power-value) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/chera-mihiretu/leet_daily/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/chera-mihiretu/leet_daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/chera-mihiretu/leet_daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/chera-mihiretu/leet_daily/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/chera-mihiretu/leet_daily/tree/master/0594-longest-harmonious-subsequence) |
+| [1387-sort-integers-by-the-power-value](https://github.com/chera-mihiretu/leet_daily/tree/master/1387-sort-integers-by-the-power-value) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chera-mihiretu/leet_daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/chera-mihiretu/leet_daily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/chera-mihiretu/leet_daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -296,4 +298,8 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/chera-mihiretu/leet_daily/tree/master/0307-range-sum-query-mutable) |
+## Memoization
+|  |
+| ------- |
+| [1387-sort-integers-by-the-power-value](https://github.com/chera-mihiretu/leet_daily/tree/master/1387-sort-integers-by-the-power-value) |
 <!---LeetCode Topics End-->

@@ -4,16 +4,17 @@ class Solution:
         visited = set()
 
         def dfs(node, path):
+            path.append(node)
             if node == len(graph) - 1:
                 answer.append(path.copy())
+                path.pop()
                 return 
 
             for child in graph[node]:
                 if child not in visited:
                     visited.add(child)
-                    path.append(child)
                     dfs(child, path)
-                    path.pop()
                     visited.discard(child)
-        dfs(0, [0])
+            path.pop()
+        dfs(0, [])
         return answer

@@ -241,6 +241,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/chera-mihiretu/leet_daily/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/chera-mihiretu/leet_daily/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/chera-mihiretu/leet_daily/tree/master/0146-lru-cache) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chera-mihiretu/leet_daily/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -285,6 +286,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/chera-mihiretu/leet_daily/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/chera-mihiretu/leet_daily/tree/master/0050-powx-n) |
 ## Queue
 |  |

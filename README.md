@@ -7,6 +7,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/chera-mihiretu/leet_daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/chera-mihiretu/leet_daily/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/chera-mihiretu/leet_daily/tree/master/0075-sort-colors) |
+| [0200-number-of-islands](https://github.com/chera-mihiretu/leet_daily/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/chera-mihiretu/leet_daily/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/chera-mihiretu/leet_daily/tree/master/0307-range-sum-query-mutable) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/chera-mihiretu/leet_daily/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/chera-mihiretu/leet_daily/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0945-snakes-and-ladders](https://github.com/chera-mihiretu/leet_daily/tree/master/0945-snakes-and-ladders) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -167,6 +169,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/chera-mihiretu/leet_daily/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/chera-mihiretu/leet_daily/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/chera-mihiretu/leet_daily/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/chera-mihiretu/leet_daily/tree/master/0399-evaluate-division) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/chera-mihiretu/leet_daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -175,6 +178,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/chera-mihiretu/leet_daily/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/chera-mihiretu/leet_daily/tree/master/0399-evaluate-division) |
 | [0945-snakes-and-ladders](https://github.com/chera-mihiretu/leet_daily/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/chera-mihiretu/leet_daily/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -192,6 +196,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/chera-mihiretu/leet_daily/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/chera-mihiretu/leet_daily/tree/master/0399-evaluate-division) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/chera-mihiretu/leet_daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [3863-power-grid-maintenance](https://github.com/chera-mihiretu/leet_daily/tree/master/3863-power-grid-maintenance) |

@@ -74,6 +74,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/chera-mihiretu/leet_daily/tree/master/0242-valid-anagram) |
 | [0399-evaluate-division](https://github.com/chera-mihiretu/leet_daily/tree/master/0399-evaluate-division) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/chera-mihiretu/leet_daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/chera-mihiretu/leet_daily/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/chera-mihiretu/leet_daily/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/chera-mihiretu/leet_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [1029-two-city-scheduling](https://github.com/chera-mihiretu/leet_daily/tree/master/1029-two-city-scheduling) |
 | [1387-sort-integers-by-the-power-value](https://github.com/chera-mihiretu/leet_daily/tree/master/1387-sort-integers-by-the-power-value) |
@@ -153,6 +155,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/chera-mihiretu/leet_daily/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/chera-mihiretu/leet_daily/tree/master/0146-lru-cache) |
+| [0242-valid-anagram](https://github.com/chera-mihiretu/leet_daily/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/chera-mihiretu/leet_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/chera-mihiretu/leet_daily/tree/master/0940-fruit-into-baskets) |
 | [1488-avoid-flood-in-the-city](https://github.com/chera-mihiretu/leet_daily/tree/master/1488-avoid-flood-in-the-city) |

@@ -1,81 +1,61 @@
-class ListNode:
-    def __init__(self, key=-1, value=-1, next=None, prev=None):
+class Node:
+    def __init__(self, key=-1, val=-1, next=None, prev=None):
+        self.val = val # key, val
         self.key = key
-        self.val = value
         self.next = next
         self.prev = prev
-    def __str__(self):
-        curr = self
-        answer = []
-      
-        while curr:
-            answer.append('[' + str(curr.key) + ', ' + str(curr.val)+  ']')
-            curr = curr.next
-        return '-> '.join(answer)
+
+
 class LRUCache:
     def __init__(self, capacity: int):
-        self.capacity = capacity
-        # define everything 
-        self.head = ListNode()
-        self.tail = ListNode() 
-
+        self.head = Node()
+        self.tail = Node()
         self.head.next = self.tail
         self.tail.prev = self.head
-        self.map = {}
+        self.capacity = capacity
+        self.map = {} # key : node
+    
+    def remove(self,node):
+        node.prev.next = node.next
+        node.next.prev = node.prev
+        node.next = None
+        node.prev = None
+        self.map.pop(node.key)
+        return node
+    
+    def insert(self, key, val):
 
-
-    def insert(self, node):
-        # add to the froint of the list
-        hold = self.head.next
+        node = Node(key, val, self.head.next, self.head)
         self.head.next = node
-        node.prev = self.head
-        node.next = hold
-        hold.prev = node
+        node.next.prev = node
+        self.map[key] = node
+        return node
+
         
-
-
-
-    def remove(self, node):
-        # remove the node from the link 
-        prev = node.prev
-        next = node.next 
-        prev.next = next
-        next.prev = prev
-        
-
     def get(self, key: int) -> int:
-        # print(self.head)
-        # get it to the first and return its value
-        if key in self.map:
+        if key not in self.map:
+            return -1
 
-            node = self.map[key]
-            self.remove(node)
-            self.insert(node)
-
-            return node.val
-
-        return -1 
+        node = self.remove(self.map[key])
+        self.insert(node.key, node.val)
+        
+        return node.val
         
 
     def put(self, key: int, value: int) -> None:
-        # print(self.head)
-        # edit if exist 
-        if key in self.map:
-            node = self.map[key]
-            node.val = value
-            self.get(node.key)
-
-        # add if not, and also remove the excessive one 
-        else:
-            node = self.map[key] = ListNode(key=key, value=value)
-            self.insert(node)
-
-            if len(self.map) > self.capacity:
-                node = self.tail.prev
-                self.remove(node)
-                self.map.pop(node.key)
         
+        if key in self.map:
+            self.map[key].val = value
+            self.get(key)
+        else:
+            self.insert(key, value)
+            # if we have no enough size 
+            if len(self.map) > self.capacity:
+                self.remove(self.tail.prev)
 
+
+
+# 2, 4, 1, 3
 
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)

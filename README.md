@@ -14,6 +14,7 @@
 | [0307-range-sum-query-mutable](https://github.com/chera-mihiretu/leet_daily/tree/master/0307-range-sum-query-mutable) |
 | [0399-evaluate-division](https://github.com/chera-mihiretu/leet_daily/tree/master/0399-evaluate-division) |
 | [0594-longest-harmonious-subsequence](https://github.com/chera-mihiretu/leet_daily/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/chera-mihiretu/leet_daily/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/chera-mihiretu/leet_daily/tree/master/0704-binary-search) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/chera-mihiretu/leet_daily/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/chera-mihiretu/leet_daily/tree/master/0940-fruit-into-baskets) |
@@ -102,6 +103,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/chera-mihiretu/leet_daily/tree/master/0611-valid-triangle-number) |
 | [1029-two-city-scheduling](https://github.com/chera-mihiretu/leet_daily/tree/master/1029-two-city-scheduling) |
 | [1488-avoid-flood-in-the-city](https://github.com/chera-mihiretu/leet_daily/tree/master/1488-avoid-flood-in-the-city) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/chera-mihiretu/leet_daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -118,6 +120,7 @@
 | [0042-trapping-rain-water](https://github.com/chera-mihiretu/leet_daily/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/chera-mihiretu/leet_daily/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/chera-mihiretu/leet_daily/tree/master/0086-partition-list) |
+| [0611-valid-triangle-number](https://github.com/chera-mihiretu/leet_daily/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chera-mihiretu/leet_daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/chera-mihiretu/leet_daily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
@@ -126,6 +129,7 @@
 | [0075-sort-colors](https://github.com/chera-mihiretu/leet_daily/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/chera-mihiretu/leet_daily/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/chera-mihiretu/leet_daily/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/chera-mihiretu/leet_daily/tree/master/0611-valid-triangle-number) |
 | [1029-two-city-scheduling](https://github.com/chera-mihiretu/leet_daily/tree/master/1029-two-city-scheduling) |
 | [1387-sort-integers-by-the-power-value](https://github.com/chera-mihiretu/leet_daily/tree/master/1387-sort-integers-by-the-power-value) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chera-mihiretu/leet_daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -224,6 +228,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/chera-mihiretu/leet_daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/0240-search-a-2d-matrix-ii) |
+| [0611-valid-triangle-number](https://github.com/chera-mihiretu/leet_daily/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/chera-mihiretu/leet_daily/tree/master/0704-binary-search) |
 | [1488-avoid-flood-in-the-city](https://github.com/chera-mihiretu/leet_daily/tree/master/1488-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chera-mihiretu/leet_daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |

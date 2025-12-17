@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/chera-mihiretu/leet_daily/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/chera-mihiretu/leet_daily/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/chera-mihiretu/leet_daily/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/chera-mihiretu/leet_daily/tree/master/0075-sort-colors) |
 | [0200-number-of-islands](https://github.com/chera-mihiretu/leet_daily/tree/master/0200-number-of-islands) |
@@ -89,6 +90,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/chera-mihiretu/leet_daily/tree/master/0042-trapping-rain-water) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/chera-mihiretu/leet_daily/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1387-sort-integers-by-the-power-value](https://github.com/chera-mihiretu/leet_daily/tree/master/1387-sort-integers-by-the-power-value) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/chera-mihiretu/leet_daily/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -111,6 +113,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/chera-mihiretu/leet_daily/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/chera-mihiretu/leet_daily/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/chera-mihiretu/leet_daily/tree/master/0086-partition-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chera-mihiretu/leet_daily/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -255,6 +258,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/chera-mihiretu/leet_daily/tree/master/0042-trapping-rain-water) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/chera-mihiretu/leet_daily/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1472-design-browser-history](https://github.com/chera-mihiretu/leet_daily/tree/master/1472-design-browser-history) |
@@ -262,6 +266,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/chera-mihiretu/leet_daily/tree/master/0042-trapping-rain-water) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/chera-mihiretu/leet_daily/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Backtracking
 |  |

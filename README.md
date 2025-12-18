@@ -76,6 +76,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/chera-mihiretu/leet_daily/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/chera-mihiretu/leet_daily/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/chera-mihiretu/leet_daily/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/chera-mihiretu/leet_daily/tree/master/0399-evaluate-division) |
@@ -142,6 +143,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/chera-mihiretu/leet_daily/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/chera-mihiretu/leet_daily/tree/master/0050-powx-n) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chera-mihiretu/leet_daily/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/chera-mihiretu/leet_daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -159,6 +161,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/chera-mihiretu/leet_daily/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/chera-mihiretu/leet_daily/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/chera-mihiretu/leet_daily/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/chera-mihiretu/leet_daily/tree/master/0242-valid-anagram) |

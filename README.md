@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/chera-mihiretu/leet_daily/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/chera-mihiretu/leet_daily/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/chera-mihiretu/leet_daily/tree/master/0399-evaluate-division) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/chera-mihiretu/leet_daily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -269,6 +270,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chera-mihiretu/leet_daily/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/chera-mihiretu/leet_daily/tree/master/0394-decode-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/chera-mihiretu/leet_daily/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1472-design-browser-history](https://github.com/chera-mihiretu/leet_daily/tree/master/1472-design-browser-history) |
@@ -310,6 +312,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/chera-mihiretu/leet_daily/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/chera-mihiretu/leet_daily/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/chera-mihiretu/leet_daily/tree/master/0394-decode-string) |
 ## Queue
 |  |
 | ------- |

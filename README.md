@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/chera-mihiretu/leet_daily/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/chera-mihiretu/leet_daily/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/chera-mihiretu/leet_daily/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/chera-mihiretu/leet_daily/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/chera-mihiretu/leet_daily/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/chera-mihiretu/leet_daily/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/0240-search-a-2d-matrix-ii) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/chera-mihiretu/leet_daily/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/chera-mihiretu/leet_daily/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/chera-mihiretu/leet_daily/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/chera-mihiretu/leet_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/chera-mihiretu/leet_daily/tree/master/0611-valid-triangle-number) |
@@ -164,6 +166,7 @@
 | [0012-integer-to-roman](https://github.com/chera-mihiretu/leet_daily/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/chera-mihiretu/leet_daily/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/chera-mihiretu/leet_daily/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/chera-mihiretu/leet_daily/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/chera-mihiretu/leet_daily/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/chera-mihiretu/leet_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/chera-mihiretu/leet_daily/tree/master/0940-fruit-into-baskets) |
@@ -247,6 +250,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/chera-mihiretu/leet_daily/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/chera-mihiretu/leet_daily/tree/master/0594-longest-harmonious-subsequence) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/chera-mihiretu/leet_daily/tree/master/2423-remove-letter-to-equalize-frequency) |
 ## Design
@@ -327,6 +331,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/chera-mihiretu/leet_daily/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chera-mihiretu/leet_daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/chera-mihiretu/leet_daily/tree/master/0307-range-sum-query-mutable) |
 ## Binary Indexed Tree
